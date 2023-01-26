@@ -4,7 +4,7 @@ This is a [MERN](https://www.mongodb.com/mern-stack) Music note full stack web a
 
 # Application dev-env requirement
 1. Please make sure [Node](https://nodejs.org/en/) is installed
-2. Please make sure a good text editor is installed (VS code is highly recommended)
+2. Please make sure a good text editor is installed ([VS code](https://code.visualstudio.com/) is highly recommended)
 
 # How to run?
 We got 2 folders:
