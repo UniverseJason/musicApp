@@ -29,22 +29,16 @@ npm start
 Second, we need to run the client:
 1. open a ***new*** terminal and change dir to client
 2. run `npm install` to get all packages installed
-3. run `npm start` and you should see something like this:
+3. run `npm run dev` and you should see something like this:
 ```
-Compiled successfully!
+  VITE v4.1.4  ready in 215 ms
 
-You can now view the client in the browser.
-
-  Local:            http://localhost:3000
-  On Your Network:  http://192.168.1.72:3000
-
-Note that the development build is not optimized.
-To create a production build, use npm run build.
-
-webpack compiled successfully
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: use --host to expose
+  ➜  press h to show help
 ```
 
-Finally, go to `http://localhost:3000` you should see the message that the server talks to the client
+Finally, go to your **local host** you should see the client side running!
 
 # Resource for study
 - w3 school quick [overview](https://www.w3schools.com/nodejs/default.asp) for nodejs
